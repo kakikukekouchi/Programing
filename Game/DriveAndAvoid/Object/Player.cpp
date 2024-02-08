@@ -21,7 +21,7 @@ void Player::Initialize()
 	angle = 0.0f;
 	speed = 3.0f;
 	hp = 1000;
-	fuel = 100;
+	fuel = 20000;
 	barrier_count = 3;
 
 	//‰æ‘œ‚Ì“Ç‚İ‚İ
